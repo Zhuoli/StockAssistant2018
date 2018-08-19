@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace StockAssistant2018
+namespace StockAssistant2018MVC
 {
     public class Program
     {
